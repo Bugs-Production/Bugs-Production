@@ -45,6 +45,3 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bugs-Production&theme=dark)](https://git.io/streak-stats)
